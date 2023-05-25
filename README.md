@@ -1,6 +1,8 @@
 <h1 align="center">Hola, soy Baruch</h1>
 <h3 align="center">Soy un programador Junior apasionado por el Aprendizaje</h3>
 
+<img src="https://blog.digimind.com/hs-fs/hubfs/Imported_Blog_Media/giphy-202.gif?width=500&height=375&name=giphy-202.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baruch1515&label=Profile%20views&color=0e75b6&style=flat" alt="baruch1515" /> </p>
 
 - 🔭 Actualmente estoy trabajando en [NotFli](https://github.com/Baruch1515/NotFli)
