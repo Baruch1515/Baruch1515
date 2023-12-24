@@ -1,5 +1,4 @@
-<h1 align="center">Hola, soy Baruch</h1>
-<h3 align="center">Soy un programador Junior apasionado por el Aprendizaje</h3>
+
 
 <img src="https://blog.digimind.com/hs-fs/hubfs/Imported_Blog_Media/giphy-202.gif?width=500&height=375&name=giphy-202.gif">
 
